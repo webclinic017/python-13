@@ -1,0 +1,10 @@
+1.
+There is no difference between char * name and char* name;
+
+2. A good way to declare multiple pointers more efficiently:
+typedef char *CPTR; 
+CPTR p, p2, p3; 
+
+3.
+clang -o readability readability.c -lcs50 -lm
+-l[library_used]

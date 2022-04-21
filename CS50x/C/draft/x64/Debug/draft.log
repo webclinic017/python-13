@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(8,39): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [14]'
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(8,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(8,42): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(8,41): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(11,41): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [16]'
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(11,23): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(11,44): error C2440: 'function': cannot convert from 'float' to 'const char *const '
+C:\Users\truon\Desktop\CS50x\C\draft\Source.c(11,43): warning C4024: 'sprintf_s': different types for formal and actual parameter 3

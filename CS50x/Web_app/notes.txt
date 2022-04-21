@@ -1,0 +1,25 @@
+1. HTML, Hypertext Markup Language, is not a programming language, but rather used to format web pages and tell the browser how to display them.
+2. In HTML, attributes are key-value pairs. For example: lang="en". Notice that some attributes are empty, where there is no value.
+3. Two commands supported by HTTP include GET and POST. GET allows a browser to ask for a page or file in a URL, and POST allows a browser to send additional data to the server that is hidden from the URL.
+
+4. CSS, Cascading Style Sheets, another language that tells our browser how to display tags on a page. CSS uses properties, or key-value pairs, like font-size: large;.
+5. To factor out, or separate our CSS from HTML, we can include styles in the <head> tag. 
+   Or we can also use a more specific class selector. We can define our own CSS class with a . followed by a keyword we choose, so here we’ve created .centered, .large, .medium, and .small, each with some property.
+   Finally, we can take all of the CSS for the properties and move them to another file with the <link> tag. Now, we have a reusable CSS file.
+6. A set of CSS conventions and shared styles is known as a framework, with classes and components we can quickly use. One popular framework is Bootstrap.
+
+7. To write code that can run in users’ browsers, or on the client, we’ll use a new language, JavaScript.
+8. With JavaScript, we can change the HTML in the browser in real-time. We can use <script> tags to include our code directly, or from a .js file.
+
+9. We’ll use Python and a library called Flask to write our own web server.
+10. The @ symbol in Python is called a decorator, which modifies a function.
+11. If we have some repeated HTML code, with just HTML, we aren’t able to share code between files, but with Flask templates, we can factor out such common content.
+12. While request.args is for inputs from a GET request, we have to use request.form in Flask for inputs from a POST request.
+13.	By Flask’s convention, we’ll have a directory called static for files like images and CSS.
+14. The Flask framework implements a particular paradigm, or way of thinking and programming. 
+	This paradigm, also implemented by other frameworks, is known as MVC, or Model–view–controller.
+		The controller contains our “business logic”, code that manages our application overall, given user input. In Flask, this will be our Python code in app.py.
+		The view includes templates and visuals for the user interface, like the HTML and CSS that the user will see and interact with.
+		The model is our application’s data, such as a SQL database or CSV file, which we haven’t yet used.
+15. If our web server stops running, we’ll lose the data stored in memory, so we’ll use a SQLite database with the SQL library from cs50
+16. Sessions are how web servers remembers information about each user, which enables features like allowing users to stay logged in, and saving items to a shopping cart.

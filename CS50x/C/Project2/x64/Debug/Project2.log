@@ -1,0 +1,5 @@
+﻿  example.c
+  Problem_1_Mario.c
+  Generating Code...
+Problem_1_Mario.obj : error LNK2005: main already defined in example.obj
+C:\Users\truon\Desktop\C\Project2\x64\Debug\Project2.exe : fatal error LNK1169: one or more multiply defined symbols found

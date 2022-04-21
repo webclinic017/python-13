@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(25,11): warning C4477: 'printf' : format string '%lli' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(25,11): message : consider using '%i' in the format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(25,11): message : consider using '%I32i' in the format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(51,10): warning C4477: 'printf' : format string '%lli' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(51,10): message : consider using '%i' in the format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(51,10): message : consider using '%I32i' in the format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(86,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(86,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(86,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(86,11): message : this argument is used as a buffer size
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(90,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(90,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(90,12): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\Source.c(90,12): message : this argument is used as a buffer size
+  Project_1_Credit.vcxproj -> C:\Users\truon\Desktop\CS50x\C\Prolem_1_Credit\x64\Debug\Project_1_Credit.exe

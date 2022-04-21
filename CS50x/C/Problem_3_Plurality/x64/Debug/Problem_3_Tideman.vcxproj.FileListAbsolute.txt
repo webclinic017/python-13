@@ -1,0 +1,2 @@
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Tideman\x64\Debug\Problem_3_Tideman.exe
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Plurality\x64\Debug\Problem_3_Plurality.exe

@@ -1,0 +1,3 @@
+﻿  runoff.c
+C:\Users\truon\Desktop\CS50x\C\Problem_3_runoff\runoff.c(62,9): warning C4013: 'gets' undefined; assuming extern returning int
+  Problem_3_runoff.vcxproj -> C:\Users\truon\Desktop\CS50x\C\Problem_3_runoff\x64\Debug\Problem_3_runoff.exe

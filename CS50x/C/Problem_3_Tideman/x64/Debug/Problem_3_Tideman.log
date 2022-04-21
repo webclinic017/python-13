@@ -1,0 +1,5 @@
+﻿  Tideman.c
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Tideman\Tideman.c(71,9): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Tideman\Tideman.c(77,34): error C2057: expected constant expression
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Tideman\Tideman.c(77,34): error C2466: cannot allocate an array of constant size 0
+C:\Users\truon\Desktop\CS50x\C\Problem_3_Tideman\Tideman.c(77,35): error C2133: 'ranks': unknown size
